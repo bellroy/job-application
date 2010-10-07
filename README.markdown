@@ -9,7 +9,7 @@ TODO:
 
 1. Clone this repo (don't fork it).
 2. Change each of the files, adding what is needed (sometimes adding new files
-   will be seeded, some of which may end in `_test.rb` or `_spec.rb`), committing
+   will be needed, some of which may end in `_test.rb` or `_spec.rb`), committing
    your changes to your local repo when The Way requires that you do.
 3. Zip up your modified repo and email it to jobs@trikeapps.com.
 
